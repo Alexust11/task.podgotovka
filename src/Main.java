@@ -23,5 +23,13 @@ public class Main {
 //        Stream<String> streamFromArrays = Arrays.stream(array);
 //        streamFromArrays.sorted(Collections.reverseOrder()).forEach(System.out::println);
         //****************************************************************************
+
+        //3.Напишите программу , которая проверяет, является ли строка палиндромом
+//        String str = "казак";
+//        String strNew=new StringBuilder(str).reverse().toString();
+//        if (strNew.equals(str)) {
+//            System.out.println("палиндром");
+//        }else System.out.println("не палиндром");
+        //****************************************************************************
     }
 }
